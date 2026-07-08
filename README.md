@@ -7,7 +7,7 @@ A React + TypeScript + Vite web application for exploring MIT campus information
 - React
 - TypeScript
 - Vite
-- Tailwind CSS (if you used it)
+
 
 ## Getting Started
 
